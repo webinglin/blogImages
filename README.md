@@ -5,6 +5,4 @@
 讲图片地址插入到博客中了。这样就相当于一个图创了。
 
 ### Reference
-[webinglin](https://webinglin.github.io)
-
-xxx
+[WEBINLGIN](https://webinglin.github.io)
